@@ -1,10 +1,23 @@
-# 👋 Hi, I’m @manste1n
+# 👋 Hi, I’m Kalimatov Akzhan (@manse1n)
 
-# I`m beginner Software Engineer
+# I`m beginner Software Engineer 🧑‍🎓
 
-- I`m interested 
 
-<!---
-manste1n/manste1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+Interests
+
+
+
+
+
+
+
+Languages and Tools
+![Flutter](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+
+
+
+Contacts
+
+
