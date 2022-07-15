@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @manste1n
+# 👋 Hi, I’m @manste1n
 
-## I`m a Mobile Developer (iOS, Android)
+# I`m beginner Software Engineer
 
 - I`m interested 
 
