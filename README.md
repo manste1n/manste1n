@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @manste1n
+- 👋 Hi, I’m @manste1n
 
 ## I`m a Mobile Developer (iOS, Android)
 
