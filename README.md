@@ -5,8 +5,7 @@
 # 👋 Hi, I’m Kalimatov Akzhan (@manste1n)
 
 # I`m beginner Software Engineer 🧑‍🎓
-# Mail: akzhan.kaz2003@gmail.com
-
+Contanct mail: akzhan.kaz2003@gmail.com
 
 
 
