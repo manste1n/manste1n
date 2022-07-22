@@ -46,6 +46,10 @@
 
 ![manste1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=manste1n&show_icons=true&theme=tokyonight)
 
-![Active Repositories](https://github-readme-stats.vercel.app/api/pin/?username=manste1n&repo=FermiApp&theme=tokyonight)(https://github.com/manste1n/FermiApp)]
+[![Active Repositories](https://github-readme-stats.vercel.app/api/pin/?username=manste1n&repo=FermiApp&theme=radical)](https://github.com/manste1n/FermiApp)
+
+[![Active Repositories](https://github-readme-stats.vercel.app/api/pin/?username=manste1n&repo=notQurieProject&theme=radical)](https://github.com/manste1n/notQurieProject)
+
+[![Active Repositories](https://github-readme-stats.vercel.app/api/pin/?username=manste1n&repo=bolekproject&theme=radical)](https://github.com/manste1n/bolekproject)
 
 
