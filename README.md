@@ -47,7 +47,7 @@
 ![manste1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=manste1n&show_icons=true&theme=tokyonight)
 
 
-# Active Repositories
+## Active Repositories
 
 [![Active Repositories](https://github-readme-stats.vercel.app/api/pin/?username=manste1n&repo=FermiApp&theme=radical)](https://github.com/manste1n/FermiApp)
 
