@@ -5,7 +5,13 @@
 # 👋 Hi, I’m Kalimatov Akzhan (@manste1n)
 
 # I`m beginner Software Engineer 🧑‍🎓
-Contanct mail: akzhan.kaz2003@gmail.com
+
+
+
+## Connect
+[![Telegram](https://img.shields.io/badge/-Telegram-0C090A?style=for-the-badge&logo=Telegram&logoColor=6960EC)](https://t.me/akzh4n)
+[![Instagram](https://img.shields.io/badge/-Instagram-0C090A?style=for-the-badge&logo=Instagram&logoColor=9D00FF)](https://www.instagram.com/akzh4n/)
+[![Mail](https://img.shields.io/badge/-Mail-0C090A?style=for-the-badge&logo=Gmail&logoColor=)](akzhan.kaz2003@gmail.com)
 
 
 
@@ -36,9 +42,6 @@ Contanct mail: akzhan.kaz2003@gmail.com
 
 
 
-## Contacts
-[![Telegram](https://img.shields.io/badge/-Telegram-0C090A?style=for-the-badge&logo=Telegram&logoColor=6960EC)](https://t.me/akzh4n)
-[![Instagram](https://img.shields.io/badge/-Instagram-0C090A?style=for-the-badge&logo=Instagram&logoColor=9D00FF)](https://www.instagram.com/akzh4n/)
 
 
 ![manste1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=manste1n&show_icons=true&theme=tokyonight)
